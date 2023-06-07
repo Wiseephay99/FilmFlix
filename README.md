@@ -4,6 +4,9 @@ This is a movie streaming app similar to Netflix, but definitely not Netflix.
 
 
 
+# Demo
+Live demo hosted on Netlify can be found at [ https://filmflix-cinema.netlify.app/ ]
+
 
 ## Project setup
 ```sh
