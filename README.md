@@ -1,8 +1,8 @@
-# NotNetflix
+# FilmFlix
 
 This is a movie streaming app similar to Netflix, but definitely not Netflix.
 
-![NotNetflix](public/not-netflix.png)
+
 
 
 ## Project setup
@@ -20,7 +20,7 @@ npm run test:unit
 
 ## Design choices
 
-- This project is made with Vue 3. I had no experience with Vue 3, but as I heard it's being used in a few projects at ABN Amro I thought it would be fun to explore the framework a bit.
+- This project is made with Vue 3.
 
 - There is very simple state management in the `src/services/store.js` - but it doesn't use any external dependencies. For this small project that seemed a bit overkill.
 
