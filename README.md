@@ -2,7 +2,7 @@
 
 This is a movie streaming app similar to Netflix, but definitely not Netflix.
 
-
+![NotNetflix](public/filmflix.png)
 
 # Demo
 Live demo hosted on Netlify can be found at [ https://filmflix-cinema.netlify.app/ ]
